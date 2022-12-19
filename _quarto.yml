@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Your Site"
+  site-url: https://hamelsmu.github.io/minimal-site/
   navbar:
     background: light 
     right:
