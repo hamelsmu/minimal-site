@@ -1,6 +1,7 @@
 ---
-title: "My Blog"
+title: "Blog Posts"
 toc: false
+image: https://user-images.githubusercontent.com/1483922/208547086-bc6c1f9a-ecd3-4fee-a495-48cc2a7dda84.png
 listing: 
   id: blog
   contents: blog/blogs.yml
@@ -9,7 +10,7 @@ metadata-files: [blog/_meta.yml]
 
 This is a [Quarto](https://quarto.org/docs/websites) website.
 
-You can write some stuff here.
+See [notes on how this was made](), or [see the code](https://github.com/hamelsmu/minimal-site).
 
 ---
 

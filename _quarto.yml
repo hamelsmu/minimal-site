@@ -6,6 +6,10 @@ website:
   site-url: https://hamelsmu.github.io/minimal-site/
   navbar:
     background: light 
+    left:
+      - icon: github
+        text: See the code
+        href: https://github.com/hamelsmu/minimal-site
     right:
       - icon: rss
         href: index.xml
