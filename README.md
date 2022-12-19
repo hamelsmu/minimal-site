@@ -4,5 +4,5 @@ If you write blogs on many different places, but want to collect it in one place
 
 
 - `blog/` this has the metadata that will generate the listings on the homepage
-  - `blog/meta.yml` will get merged with the front matter in `index.yml`
+  - `blog/meta.yml` will get merged with the front matter in `index.qmd`
   - `blog/blogs.yml` is read by `index.qmd`  and a listing is generated.
