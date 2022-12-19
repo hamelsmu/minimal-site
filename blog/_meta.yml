@@ -1,0 +1,13 @@
+listing: 
+  date-format: short
+  feed: true
+  categories: true
+  fields:
+    - date
+    - title
+    - description
+    - image
+  filter-ui: true
+  sort-ui: true
+  sort: "date desc"
+  field-links: [title]

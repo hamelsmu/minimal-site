@@ -1,0 +1,20 @@
+---
+title: "My Blog"
+toc: false
+listing: 
+  id: blog
+  contents: blog/blogs.yml
+metadata-files: [blog/_meta.yml]
+---
+
+This is a [Quarto](https://quarto.org/docs/websites) website.
+
+You can write some stuff here.
+
+---
+
+Subscribe via RSS: [<i class="bi bi-rss"></i>](index.xml)
+
+:::{.blog}
+:::
+
