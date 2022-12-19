@@ -9,6 +9,11 @@
 <link>https://hamelsmu.github.io/minimal-site/index.html</link>
 <atom:link href="https://hamelsmu.github.io/minimal-site/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
+<image>
+<url>https://user-images.githubusercontent.com/1483922/208547086-bc6c1f9a-ecd3-4fee-a495-48cc2a7dda84.png</url>
+<title>Your Site</title>
+<link>https://hamelsmu.github.io/minimal-site/index.html</link>
+</image>
 <generator>quarto-1.2.280</generator>
 <lastBuildDate>Thu, 28 Jul 2022 07:00:00 GMT</lastBuildDate>
 <item>
