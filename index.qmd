@@ -10,7 +10,7 @@ metadata-files: [blog/_meta.yml]
 
 This is a [Quarto](https://quarto.org/docs/websites) website.
 
-See [notes on how this was made](), or [see the code](https://github.com/hamelsmu/minimal-site).
+See [notes on how this was made](https://hamel.dev/notes/quarto/listings-from-data.html), or [see the code](https://github.com/hamelsmu/minimal-site).
 
 ---
 
